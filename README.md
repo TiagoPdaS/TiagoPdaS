@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Tiago da Silva 👋
 
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoPdaS&show_icons=true&heme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPdaS)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia.
 <div style:"display:inline-block"><br/>
@@ -11,3 +12,6 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
+<br/>
+
+
