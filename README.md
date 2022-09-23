@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Tiago da Silva 👋
 
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoPdaS&show_icons=true&heme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPdaS)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tecnologias que eu uso no meu dia.
 <div style:"display:inline-block"><br/>
