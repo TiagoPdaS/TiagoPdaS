@@ -11,7 +11,7 @@
 <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img align="center" alt="JAVASCRIPIT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="center" alt="WORDPRESS" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img align="center" alt="REACT" src="https://img.shields.io/badge/REACT-#02CDEE?style=for-the-badge&logo=react&logoColor=white"/>
+<img align="center" alt="REACT" src="https://img.shields.io/badge/react-02cdee?style=for-the-badge&logo=react&logoColor=white"/>
 
 
 
