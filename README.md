@@ -1,9 +1,11 @@
-### Olá! Eu sou o Tiago da Silva 👋
+### Hello, It's Me <br/>
+Tiago da Silva👋 <br/>
+and I'm a Font End Developer
 
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoPdaS&show_icons=true&heme=radical)
 
 
-## Tecnologias que eu uso no meu dia.
+## My Techs
 <div style:"display:inline-block"><br/>
 
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
