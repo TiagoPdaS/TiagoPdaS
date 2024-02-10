@@ -3,7 +3,7 @@
 and I'm a Font End Developer
 
 ### Connect with me:
-<div style:"display:inline-block"><br/>
+<div style:"display:inline-block" color:"white">
 <p>
 <a 
  target="_blank" href="/"><img  alt="linkedin logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
