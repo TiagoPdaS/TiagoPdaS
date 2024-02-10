@@ -4,7 +4,7 @@ and I'm a Font End Developer
 
 ### Connect with me:
 <p>
-<a href="https://www.linkedin.com/in/tiagopdas/"><img target="blank" alt="linkedin logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/tiagopdas/"><img target="_blank" alt="linkedin logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## My Techs
