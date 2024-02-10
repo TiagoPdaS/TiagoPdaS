@@ -2,10 +2,10 @@
 ### Tiago da Silva👋 <br/>
 and I'm a Font End Developer
 
-###Connect with me:
+### Connect with me:
 <p>
   <a href="www.linkedin.com/in/tiagopdas">
-  <img aling="left" alt="linkedin icon" width="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img aling="left" alt="linkedin icon" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -18,6 +18,10 @@ and I'm a Font End Developer
 <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img align="center" alt="REACT" src="https://img.shields.io/badge/react-02cdee?style=for-the-badge&logo=react&logoColor=white"/>
 <img align="center" alt="WORDPRESS" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+
+<br/>
+<br/>
+<br/>
 
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoPdaS&show_icons=true&heme=radical)
 
