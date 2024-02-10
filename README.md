@@ -2,8 +2,8 @@
 ### Tiago da Silva👋 <br/>
 and I'm a Font End Developer
 
-### Connect with me:
-<div style:"display:inline-block" color:"white">
+## Connect with me:
+
 <p>
 <a 
  target="_blank" href="/"><img  alt="linkedin logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -21,7 +21,6 @@ and I'm a Font End Developer
 <img align="center" alt="WORDPRESS" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
 <br/>
-<div style:"display:inline-block"><br/>
 <br/>
 <br/>
 
