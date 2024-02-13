@@ -28,7 +28,7 @@ and I'm a Font End Developer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPdaS&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPdaS)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
