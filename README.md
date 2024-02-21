@@ -6,7 +6,7 @@ and I'm a Font End Developer
 
 <p>
 <a 
- target="_blank" href="https://www.linkedin.com/in/tiagopdas/"><img  alt="linkedin logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  href="https://www.linkedin.com/in/tiagopdas/" target="_blank" ><img  alt="linkedin logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  
 </p>
 
