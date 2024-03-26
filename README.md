@@ -29,7 +29,7 @@ and I'm a Font End Developer
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
 ![PHP](https://img.shields.io/badge/-PHP-232323?style=flat&labelColor=000000&logo=php&logoColor=777BB4)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/-SQL-232323?style=flat&labelColor=4479A1&logo=SQL&logoColor=ffffff)
 ![PowerBi](https://img.shields.io/badge/-PowerBi-232323?style=flat&labelColor=F7DF1E&logo=powerbi&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-232323?style=flat&labelColor=4479A1&logo=python&logoColor=F7DF1E)
 <div style:"display:inline-block"><br/>
