@@ -13,16 +13,26 @@ and I'm a Font End Developer
 ## My Techs
 <div style:"display:inline-block"><br/>
 
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="JAVASCRIPIT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img align="center" alt="REACT" src="https://img.shields.io/badge/react-02cdee?style=for-the-badge&logo=react&logoColor=white"/>
-<img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-<img align="center" alt="WORDPRESS" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/-Sass-232323?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
+![Git](https://img.shields.io/badge/-Git-232323?style=flat&labelColor=EF5033&logo=Git&logoColor=000000)
+![GitHub](https://img.shields.io/badge/-GitHub-232323?style=flat&labelColor=ffffff&logo=Github&logoColor=000000)
+![Wordpress](https://img.shields.io/badge/-Wordpress-232323?style=flat&labelColor=61DAFB&logo=wordpress&logoColor=000000)
+<br/>
+<br/>
 
-<br/>
-<br/>
+## Coming Soon
+![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
+![PHP](https://img.shields.io/badge/-PHP-232323?style=flat&labelColor=000000&logo=php&logoColor=777BB4)
+![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
+![PowerBi](https://img.shields.io/badge/-PowerBi-232323?style=flat&labelColor=F7DF1E&logo=powerbi&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-232323?style=flat&labelColor=4479A1&logo=python&logoColor=F7DF1E)
+<div style:"display:inline-block"><br/>
 <br/>
 
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoPdaS&show_icons=true&heme=radical)
