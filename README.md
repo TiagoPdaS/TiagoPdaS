@@ -42,7 +42,6 @@ and I'm a Font End Developer
 
 
 
-
 </div>
 <br/>
 
