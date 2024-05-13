@@ -25,6 +25,7 @@ and I'm a Font End Developer
 <br/>
 <br/>
 
+<!--
 ## Coming Soon
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
 ![PHP](https://img.shields.io/badge/-PHP-232323?style=flat&labelColor=000000&logo=php&logoColor=777BB4)
@@ -34,6 +35,7 @@ and I'm a Font End Developer
 ![Python](https://img.shields.io/badge/-Python-232323?style=flat&labelColor=4479A1&logo=python&logoColor=F7DF1E)
 <div style:"display:inline-block"><br/>
 <br/>
+-->
 
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoPdaS&show_icons=true&heme=radical)
 
