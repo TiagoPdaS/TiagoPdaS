@@ -1,8 +1,11 @@
 ### Hello, It's Me <br/>
 ### Tiago da Silva👋 <br/>
-and I'm a Font End Developer
+
+"🦖 I am a Front End Developer passionate about creating dynamic and responsive web interfaces using React, <br/>
+JavaScript, and CSS. Always learning and seeking new challenges. 💻🚀"
 
 ## Connect with me:
+
 
 <p>
 <a 
