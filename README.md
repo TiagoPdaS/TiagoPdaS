@@ -1,9 +1,9 @@
 ### Hello, It's Me <br/>
 ### Tiago da Silva👋 <br/>
 
-"🦖 I am a Front End Developer <br/>
-passionate about creating dynamic and responsive web interfaces using React, <br/>
-JavaScript, and CSS. Always learning and seeking new challenges. 💻🚀"
+"🦖 "I am a Front-End Developer <br/>
+passionate about creating dynamic and responsive web interfaces using <br/>
+React, JavaScript, and CSS. Always learning and seeking new challenges. 💻🚀""
 
 ## Connect with me:
 
