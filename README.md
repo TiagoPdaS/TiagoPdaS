@@ -1,9 +1,13 @@
 ### Hello, It's Me <br/>
 ### Tiago da Silva👋 <br/>
 
-"🦖 "I am a Front-End Developer <br/>
-passionate about creating dynamic and responsive web interfaces using <br/>
-React, JavaScript, and CSS. Always learning and seeking new challenges. 💻🚀""
+"🦖 I am a dedicated Front-End Developer with experience in HTML, CSS (Sass/SCSS), JavaScript, Bootstrap, and WordPress (Elementor). My passion for web development started when I realized the power of transforming ideas and designs into functional and visually appealing interfaces focused on delivering the best user experience. <br>
+
+I have been working with modern technologies, such as React, which allow me to build dynamic and highly responsive applications. I believe that a good interface is not only visually attractive but also optimized for performance, accessibility, and usability.<br>
+
+What motivates me the most in development is the constant evolution of technology. I am always eager to learn new tools, improve my skills, and deliver solutions that make a difference. My goal is to always turn complexity into simplicity through clean and efficient code.<br>
+
+In addition to development, I value teamwork and the exchange of ideas. I enjoy collaborating with designers and other developers to create innovative and practical solutions. If you are looking for someone committed to delivering high-quality results, I would be happy to collaborate with you! 💻🚀""
 
 ## Connect with me:
 
@@ -11,6 +15,11 @@ React, JavaScript, and CSS. Always learning and seeking new challenges. 💻🚀
 <p>
 <a 
   href="https://www.linkedin.com/in/tiagopdas/" target="_blank onclick="window.open(this.href); return false;" ><img  alt="linkedin logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+  <a 
+    href="https://www.instagram.com/tiagopdas/"  >
+    <img  alt="Instagram logo" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
  
 </p>
 
