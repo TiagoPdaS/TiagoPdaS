@@ -50,9 +50,7 @@ In addition to development, I value teamwork and the exchange of ideas. I enjoy 
 <br/>
 -->
 
-![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoPdaS&show_icons=true&heme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPdaS&layout=compact)
 
 
 
