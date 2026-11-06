@@ -46,6 +46,15 @@ I'm a web developer focused on creating responsive, user-friendly web experience
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
+<p><strong>AI Tools:</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</p>
+
 ---
 
 ### 📂 Projects
